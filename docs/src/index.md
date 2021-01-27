@@ -4,7 +4,7 @@ CurrentModule = TestPkg
 
 # TestPkg
 
-Some functions:
+Functions:
 
 ```@docs
 f1
